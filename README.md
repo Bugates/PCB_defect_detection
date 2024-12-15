@@ -29,8 +29,8 @@ Ensure you have the following dependencies installed:
 1. Clone this repository:
     
     ```
-    git clone https://github.com/yourusername/pcb-defect-detection.git
-    cd pcb-defect-detection
+    git clone https://github.com/Bugates/PCB_defect_detection.git
+    cd PCB_defect_detection
     ```
     
 2. Install dependencies:
@@ -67,7 +67,7 @@ Ensure you have the following dependencies installed:
 
 ### 2. Model Training
 
-- The YOLOv8 model is trained on the processed dataset using 300 epochs.
+- The YOLOv8 model is trained on the processed dataset using ??? epochs.
 - The training script computes metrics such as Precision, Recall, and mAP.
 
 ### 3. Evaluation
@@ -78,10 +78,10 @@ Ensure you have the following dependencies installed:
 
 ## Results
 
-- **Precision**: Replace with actual value
-- **Recall**: Replace with actual value
-- **mAP@50**: Replace with actual value
-- **mAP@50-95**: Replace with actual value
+- **Precision**: ???
+- **Recall**: ???
+- **mAP@50**: ???
+- **mAP@50-95**: ???
 
 Visual results and additional metrics can be found in the `results/` directory.
 
