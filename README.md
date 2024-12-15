@@ -130,6 +130,12 @@ python predict.py --image <image_path>
 
 ---
 
+## Co-author
+
+- **[Navya Tiwari] (https://github.com/Bugates)**
+
+- **[Anika Mahesh] (https://github.com/AnikaMahesh)** 
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
