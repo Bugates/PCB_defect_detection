@@ -8,7 +8,7 @@ This repository contains the implementation for a PCB (Printed Circuit Board) de
 - **Defect Detection Classes**: Missing Hole, Mouse Bite, Open Circuit, Short, Spur, Spurious Copper.
 - **Dataset**: Uses the [PCB Defects Dataset](https://www.kaggle.com/datasets/akhatova/pcb-defects) from Kaggle.
 - **Machine Learning Model**: Built using YOLOv8 (You Only Look Once).
-- **Accuracy**: Achieved 92% accuracy on the test dataset (replace with actual value).
+- **Accuracy**: Achieved 92% accuracy on the test dataset.
 
 ---
 
@@ -67,7 +67,7 @@ Ensure you have the following dependencies installed:
 
 ### 2. Model Training
 
-- The YOLOv8 model is trained on the processed dataset using ??? epochs.
+- The YOLOv8n model is trained on the processed dataset using 1000 epochs.
 - The training script computes metrics such as Precision, Recall, and mAP.
 
 ### 3. Evaluation
@@ -118,9 +118,8 @@ python predict.py --image <image_path>
 .
 ├── data/                 # Dataset and annotations
 ├── models/               # Pretrained and trained model weights
-├── notebooks/            # Jupyter notebooks for experimentation
 ├── scripts/              # Python scripts for training and evaluation
-├── results/              # Output metrics and visualizations
+├── poster/               # Visualizations of our work
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
 ```
