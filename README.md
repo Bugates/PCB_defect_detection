@@ -10,6 +10,8 @@ This repository contains the implementation for a PCB (Printed Circuit Board) de
 - **Machine Learning Model**: Built using YOLOv8 (You Only Look Once).
 - **Accuracy**: Achieved 92% accuracy on the test dataset.
 
+### A visualization of the project's achievements
+[Download the QEA project PDF](QEA%20project.pdf)
 ---
 
 ## Getting Started
